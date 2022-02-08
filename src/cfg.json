@@ -1,0 +1,9 @@
+{ "connection_data":
+    {
+        "ip":"127.0.0.0", 
+        "port":"3537",
+        "type":"ISO8583POS",
+        "header":"4"
+    },
+   "connection_description":"iso8583_test"     
+}
